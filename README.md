@@ -39,9 +39,9 @@ __NOTE__ -- If you want to modify Sbox in AES, edit the file `AES.cpp` instead o
 
 ## Results
 
-![Encryption Image](/demo/ndhu_pw_123.bmp)
+![Encryption Image](/demo/ndhu_pw_123.bmp "ndhu")
 
-![After Decryption](/pic/ndhu.bmp)
+![After Decryption](/pic/ndhu.bmp "ndhu")
 
 ![Encryption Image](/demo/Irene_pw_asdqwezxc123.bmp)
 
