@@ -38,9 +38,8 @@ For example, you can use the demo encryption image provided with this code as --
 __NOTE__ -- If you want to modify Sbox in AES, edit the file `AES.cpp` instead of `Encryptgraph.cpp`. 
 
 ## Results
+Encryption Image                                    After Decryption
+![image](/demo/ndhu_pw_123.bmp "ndhu")        ![image](/pic/ndhu.bmp "ndhu")
 
-![Encryption Image](/demo/ndhu_pw_123.bmp "ndhu")
-
-![After Decryption](/pic/ndhu.bmp "ndhu")
-
+Encryption Image                                    After Decryption
 ![Encryption Image](/demo/Irene_pw_asdqwezxc123.bmp)![After Decryption](/pic/Irene.bmp)
