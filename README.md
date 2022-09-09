@@ -32,7 +32,7 @@ Image Decryption using the following command line argument --
 For example, you can use the demo encryption image provided with this code as --
 
 ```shell
-.\Decryptgraph.exe .\result\ndhu_pw_123.bmp 123
+.\Decryptgraph.exe .\demo\ndhu_pw_123.bmp 123
 ```
 
 __NOTE__ -- If you want to modify Sbox in AES, edit the file `AES.cpp` instead of `Encryptgraph.cpp`. 
